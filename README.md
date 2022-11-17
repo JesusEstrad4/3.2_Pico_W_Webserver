@@ -21,3 +21,6 @@ Estrada Jimenez Luis Jesus
 Ramirez Bastidas Jose Daniel  
 Rodriguez Moreno omar Gamaliel   
 Verjan Santoyo Edgar  
+Brito Guzman Axel Uriel  
+Argueta Garcia Osman  
+Vazquez Gutierrez Johan Sebastian  

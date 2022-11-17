@@ -11,6 +11,8 @@ Semestre: Agosto - Diciembre 2022
 
 Sistemas Programables  
 
+Docente: Rene Solis Reyes
+
 Titulo: 3.2 Pico W Webserver
 
 Equipo:

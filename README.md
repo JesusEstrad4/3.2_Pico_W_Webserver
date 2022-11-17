@@ -15,12 +15,12 @@ Docente: Rene Solis Reyes
 
 Titulo: 3.2 Pico W Webserver
 
-Equipo:
+Equipo:  
+Argueta Garcia Osman  
+Brito Guzman Axel Uriel  
 Dominguez Garcia Jesus Roman  
 Estrada Jimenez Luis Jesus  
 Ramirez Bastidas Jose Daniel  
 Rodriguez Moreno omar Gamaliel   
 Verjan Santoyo Edgar  
-Brito Guzman Axel Uriel  
-Argueta Garcia Osman  
 Vazquez Gutierrez Johan Sebastian  

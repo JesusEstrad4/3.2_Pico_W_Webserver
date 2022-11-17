@@ -1,1 +1,21 @@
 ![Alt text](https://github.com/JesusEstrad4/Sensores_Pico_W/blob/main/Imagenes_presentacion/logo.jpg)
+
+Tecnológico Nacional de México  
+Instituto Tecnológico de Tijuana  
+
+Subd ireccion Académica  
+
+Departamento de sistemas y computación  
+
+Semestre: Agosto - Diciembre 2022  
+
+Sistemas Programables  
+
+Titulo: 3.2 Pico W Webserver
+
+Equipo:
+Dominguez Garcia Jesus Roman  
+Estrada Jimenez Luis Jesus  
+Ramirez Bastidas Jose Daniel  
+Rodriguez Moreno omar Gamaliel   
+Verjan Santoyo Edgar  
